@@ -38,7 +38,7 @@ function App() {
     <div
       className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
       style={{
-    backgroundImage: `url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWvw3IoNnIofk7_O7_SCcnR-vS8M-Ey8EQXQ&s")`,
+        backgroundImage: `url("./public/satta.jpeg")`,
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',
     backgroundPosition: 'center',
